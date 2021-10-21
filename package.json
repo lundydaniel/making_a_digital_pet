@@ -1,0 +1,23 @@
+{
+  "name": "making_a_digital_pet",
+  "version": "1.0.0",
+  "description": "Assignment 4 - Coding for the web",
+  "main": "script.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lundydaniel/making_a_digital_pet.git"
+  },
+  "author": "Daniel Lundy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lundydaniel/making_a_digital_pet/issues"
+  },
+  "homepage": "https://github.com/lundydaniel/making_a_digital_pet#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

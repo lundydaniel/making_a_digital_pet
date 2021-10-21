@@ -1,0 +1,40 @@
+{
+    "moods": [
+        {"emotion": "Happy", "dialog": "Happy, Happy, Happy, I am so happppppppy!!!!!"},
+        {"emotion": "Sad", "dialog": "OHHHH, THE HUMANITY!!!! I don't think I cango on much longer."},
+        {"emotion": "Neutral", "dialog": "What a pleasent day out."},
+        {"emotion": "Angry", "dialog": "AHHHHHH, I can't beleive it!!! How could you!"},
+        {"emotion": "Sick", "dialog": "Ufff, I don't feel so well. Maybe I need to eat?"},
+        {"emotion": "Frustraited", "dialog": "Why can't I figure this out! Imposture syndrome I say!"},
+        {"emotion": "Awkwardness", "dialog": "Well, I mean, they are really cute....should I go talk to them? I don't know, maybe that is to forward."},
+        {"emotion": "Horror", "dialog": " EEEEEKKKK!!!!! RUUUUNNNNNNNNNNNNN!"},
+        {"emotion": "Craving", "dialog" : "MMMMMMMMMM, Hamburgerrrrrr. That sounds delicous."},
+        {"emotion": "Nostalgia", "dialog": "Remember that time when we did that thing and we went to that place? Yah, that was super fun!"},
+        {"emotion": "Confusion", "dialog": "Wait wait, whaaaaat? I don't get it."},
+        {"emotion": "Grateful", "dialog": "Awww, I love it so much!!! Thank you!"},
+        {"emotion": "Fear", "dialog": "No no nooo please NOOOOO!!!!! It's to much for me to bare!"},
+        {"emotion": "Disgust", "dialog": "Oh my goodness, yyyuuck! That is gross!"},
+        {"emotion": "Disappointment", "dialog": "I, I just don't know what to say.. I can't believe you would leave me for that long!"},
+        {"emotion": "Interest", "dialog": "Hey, ahh what cha' got there?"},
+        {"emotion": "Serenity", "dialog": "Ooooh yah, I mean i could just sit here and relax alllll day."},
+        {"emotion": "Hope", "dialog": "Hmmm, I hope they come back soon."},
+        {"emotion": "Pride", "dialog": "I am the best digital pet ever."},
+        {"emotion": "Ashamed", "dialog": "I know, I know, I shouldn't have ate all those yummy treats!"},
+        {"emotion": "Worry", "dialog": "Are they ever going to come back?"}
+    ],
+
+    "foods": [
+        {"foodName": "Carrot", "foodPoints": 14, "contaminationLvl": 0.7},
+        {"foodName": "Plum", "foodPoints": 21, "contaminationLvl": 0.8},
+        {"foodName": "Balut", "foodPoints": 0, "contaminationLvl": 0.1},  
+        {"foodName": "Mango", "foodPoints": 13, "contaminationLvl": 0.9},
+        {"foodName": "Sheppard's Pie", "foodPoints": 30, "contaminationLvl": 0.9},
+        {"foodName": "Roasted Potatoes", "foodPoints": 11, "contaminationLvl": 0.75},
+        {"foodName": "Turkey", "foodPoints": 16, "contaminationLvl": 0.8},
+        {"foodName": "Apple", "foodPoints": 19, "contaminationLvl": 0.7},
+        {"foodName": "Cucumber", "foodPoints": 12, "contaminationLvl": 0.9},
+        {"foodName": "Pizza", "foodPoints": 45, "contaminationLvl": 0.95}
+
+    ]
+
+}

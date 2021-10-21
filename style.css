@@ -1,0 +1,17 @@
+
+/* Grabbing some google font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    color: rgb(245, 245, 245);
+    background-color: rgb(53, 52, 52);
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    transform: translateY(300px);
+}
